@@ -40,7 +40,6 @@ namespace Academia.GestionInventario.WebApi.DomainServices.Sucursales
             }
             mensaje = MensajesGlobales.Exito;
             return true;
-
         }
         public bool SePuedeActualizarSucursal(ActualizarSucursalDto sucursalDto, out string mensaje)
         {

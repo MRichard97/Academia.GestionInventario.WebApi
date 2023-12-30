@@ -157,3 +157,5 @@ D:\Academia\Academia.GestionInventario.WebApi\obj\Debug\net8.0\refint\Academia.G
 D:\Academia\Academia.GestionInventario.WebApi\obj\Debug\net8.0\Academia.GestionInventario.WebApi.pdb
 D:\Academia\Academia.GestionInventario.WebApi\obj\Debug\net8.0\Academia.GestionInventario.WebApi.genruntimeconfig.cache
 D:\Academia\Academia.GestionInventario.WebApi\obj\Debug\net8.0\ref\Academia.GestionInventario.WebApi.dll
+D:\Academia\Academia.GestionInventario.WebApi\bin\Debug\net8.0\FluentAssertions.dll
+D:\Academia\Academia.GestionInventario.WebApi\obj\Debug\net8.0\Academia.GestionInventario.WebApi.sourcelink.json
